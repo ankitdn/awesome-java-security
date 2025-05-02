@@ -29,7 +29,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Spring Security Oauth](https://github.com/spring-projects/spring-security-oauth) - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
 
 ## Multi tools
-
+- [Abom](https://vulert.com/abom) - A tool that identifies vulnerable open source dependencies in your projects by analyzing just a manifest file. 
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi-purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 
@@ -57,7 +57,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/product/19117/Oracle-JRE.html?vendor_id=93) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=java&search_type=all) - Java known vulnerabilities in the National Vulnerability Database.
 - [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free tool to locate CVEs and outdated dependencies in libraries.
-
+- [Vulert Vulnerability Database](https://vulert.com/vuln-db) Vulert Vulnerability Database is the world's largest and most accurate vulnerability database
+  
 ## Cryptography
 
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - Java implementation of cryptographic algorithms.
